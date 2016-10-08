@@ -18,7 +18,8 @@ for X in range (0,10):
 
 print "End of the program. Bye!"
 
-
+#Hey Gary, I would consider using input() or raw_input() to get user input for this assignment.  I like your use of random numbers
+#but we need to get the user involved.  See how you can incorporate input() or raw_input() into this assignment.
 '''
 #answer sheet solution
 from random import randint
